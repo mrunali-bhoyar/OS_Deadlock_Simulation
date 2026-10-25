@@ -4,7 +4,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)](https://vite.dev/)
 [![Vitest](https://img.shields.io/badge/Tests-19%20Passed-10B981?logo=vitest&logoColor=white)](https://vitest.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An enterprise-grade, fully interactive Operating Systems simulation dashboard built for comprehensive deadlock analysis, avoidance, detection, prevention, and resource allocation.
 
@@ -140,19 +139,6 @@ The output files will be created in the `dist/` directory, ready to deploy to an
 
 ---
 
-## 🌐 Free 1-Click Deployment
-
-### Deploy with Vercel (Recommended)
-1. Go to [Vercel](https://vercel.com/new).
-2. Connect your GitHub account and import `mrunali-bhoyar/OS_Deadlock_Simulation`.
-3. Default settings (Framework: Vite, Build: `npm run build`, Output: `dist`) will be automatically detected.
-4. Click **Deploy**.
-
-### Deploy with Netlify
-1. Run `npm run build` locally.
-2. Drag and drop the `dist/` folder into [Netlify Drop](https://app.netlify.com/drop).
-
----
 
 ## 📚 Operating Systems Theoretical Basis
 
@@ -173,5 +159,4 @@ The output files will be created in the `dist/` directory, ready to deploy to an
 ---
 
 ## 📄 License
-
-This project is licensed under the MIT License — feel free to use and adapt for academic purposes.
+Mrunali's Project
